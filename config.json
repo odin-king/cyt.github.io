@@ -7,5 +7,6 @@
     "onePageListNum":10,
     "yearColorList":["#bc4c00", "#0969da", "#1f883d", "#A333D0"],
     "UTC":8,
+    "bottomText":"Learning Mode",
     "needComment":0
 }
