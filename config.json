@@ -8,5 +8,6 @@
     "yearColorList":["#bc4c00", "#0969da", "#1f883d", "#A333D0"],
     "UTC":8,
     "bottomText":"Learning Mode",
+    "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script>",
     "needComment":0
 }
